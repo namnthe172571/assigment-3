@@ -1,8 +1,8 @@
-﻿using Namnthe172571.module1;
+using DatPT.module1;
 
-namespace Namnthe172571.module1
+namespace DatPT.module1
 {
-    public class FibonacciLoop : IFibonacci
+    public class FibonacciForLoop : IFibonacci
     {
         public int Fibonacci(int n, bool flag)
         {
