@@ -1,4 +1,4 @@
-﻿namespace Namnthe172571.module1
+namespace DatPT.module1
 {
     public interface IFibonacci
     {
